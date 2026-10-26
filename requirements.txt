@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 streamlit
 opencv-python-headless
 scikit-learn
 pandas
 numpy
 joblib
+=======
+streamlit
+opencv-python-headless
+scikit-learn
+pandas
+numpy
+joblib
+>>>>>>> 58e5fc118c672629374f256478dbd50d66a3e165
 pillow
